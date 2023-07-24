@@ -1,6 +1,12 @@
 # Databricks certification
 
+# Courseware Resources
+- https://labs.training.databricks.com/import/scalable-machine-learning-with-apache-spark/vCURRENT/scalable-machine-learning-with-apache-spark.dbc?token=dmte5ea49y&expires_at_utc=2023-07-25T11:04:35
+
+- 
+
 # Apache Spark Overview
+
 
 - Objetivo de Spark: Procesamiento distribuido.
 - Built in aPIs in SQL, Python, Scala, R y Java.
